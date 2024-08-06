@@ -1,3 +1,20 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+body{
+    font-family: 'Roboto';
+}
+@font-face {
+    font-display: swap; 
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    src: url('../src/assets/fonts/roboto-v32-latin-regular.woff2') format('woff2');
+  }
+  @font-face {
+    font-display: swap;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    src: url('../src/assets/fonts/roboto-v32-latin-700.woff2') format('woff2'); 
+  }
