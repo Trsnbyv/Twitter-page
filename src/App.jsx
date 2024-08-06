@@ -1,4 +1,3 @@
-
 import './App.css';
 import { Context } from "./context/Context";
 import { useContext } from 'react';
