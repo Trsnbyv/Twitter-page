@@ -4,8 +4,8 @@ import { Home, Profile } from '../../pages/Dashboard'
 function DashboardPage() {
   return (
     <Routes>
-        <Route path='/' element={Home}/>
-        <Route path='/profile' element={Profile}/>
+        <Route path='/' element={<Home/>}/>
+        <Route path='/profile' element={<Profile/>}/>
     </Routes>
   )
 }

@@ -4,8 +4,8 @@ import { SignIn, SignUp } from '../../pages/Login'
 function LoginPage() {
   return (
     <Routes>
-        <Route path='/' element={SignIn}/>
-        <Route path='/sign-up' element={SignUp}/>
+        <Route path='/' element={<SignIn/>}/>
+        <Route path='/sign-up' element={<SignUp/>}/>
     </Routes>
   )
 }

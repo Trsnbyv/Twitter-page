@@ -1,6 +1,7 @@
-import { useContext, Context } from "react"
+import { useContext } from "react"
 import TwitterLogo from "../assets/images/twitter-logo.svg"
 import toast, { Toaster } from "react-hot-toast"
+import { Context } from "../context/Context"
 
 function Signin() {
     const {setToken} = useContext(Context)
