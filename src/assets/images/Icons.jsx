@@ -18,5 +18,10 @@ import Designinsta from "./designinsta.svg"
 import Cloutexhibition from "./cloutexhibition.svg"
 import CreativePhoto from "./creative-photo.svg"
 import KebabImg from "./kebab-img.png"
+import CommentIcon from "./comment-icon.svg"
+import RepostIcon from "./repost-icon.svg"
+import LikeIcon from "./like-icon.svg"
+import UploadIcon from "./upload-icon.svg"
+import StatisticsIcon from "./statistics-icon.svg"
 
-export{HomeIcon,ExploreIcon,NotificationIcon,MessagesIcon,BookmarkIcon,ListIcon,ProfileIcon,MoreIcon,DarkModeIcon,ChooseImgICon,GifIcon,StatsIcon,SmileIcon,ScheduleImg,AvatarIcon,DotsIcon,Designinsta,Cloutexhibition,CreativePhoto,KebabImg}
+export{HomeIcon,ExploreIcon,NotificationIcon,MessagesIcon,BookmarkIcon,ListIcon,ProfileIcon,MoreIcon,DarkModeIcon,ChooseImgICon,GifIcon,StatsIcon,SmileIcon,ScheduleImg,AvatarIcon,DotsIcon,Designinsta,Cloutexhibition,CreativePhoto,KebabImg,CommentIcon,LikeIcon,RepostIcon,StatisticsIcon,UploadIcon}
