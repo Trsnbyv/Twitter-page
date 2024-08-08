@@ -45,7 +45,7 @@ function SignIn() {
           placeholder="Password"
           className="placeholder:text-[18px] leading-[23px] placeholder:text-[#00000099] py-[23px] w-[450px] pl-[20px] mb-[25px] border-[1px] border-[#00000033] rounded-[6px] outline-none text-[18px] focus:border-[#1DA1F2] duration-300"
         />
-        <button className="w-[100%] bg-[#1DA1F2] border-[3px] hover:text-[#1DA1F2] hover:bg-white border-[#1DA1F2] duration-300 border-transparent rounded-[76px] py-[16px] text-center text-[18px] font-bold leading-[23px] text-white mb-[40px]">
+        <button className="w-[100%] bg-[#1DA1F2] border-[3px] hover:text-[#1DA1F2] hover:bg-white hover:border-[#1DA1F2] duration-300 border-transparent rounded-[76px] py-[16px] text-center text-[18px] font-bold leading-[23px] text-white mb-[40px]">
           Log In
         </button>
         <div className="flex justify-between">
